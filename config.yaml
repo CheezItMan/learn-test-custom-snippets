@@ -8,6 +8,6 @@ Standards:
       - success criteria
     ContentFiles:
       -
-        Type: Checkpoint
+        Type: Lesson
         UID: 7ee8b71deb4347b15da65897c7b7d77a
         Path: /01-sample-lesson/lesson.checkpoint.md

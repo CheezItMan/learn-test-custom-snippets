@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  db:
+    build: ./database/
+    env_file:
+      - 'variables.env'
+  app :
+    build: .
+    depends_on:
+      - db
+    env_file:
+      - 'variables.env'

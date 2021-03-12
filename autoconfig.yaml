@@ -18,14 +18,3 @@ Standards:
         Type: Checkpoint
         UID: 7ee8b71deb4347b15da65897c7b7d77a
         Path: /01-sample-lesson/lesson.checkpoint.md
-  -
-    Title: Custom Snippets
-    Description: Custom Snippets
-    UID: fd36ea8fd62c492da6d914d8c1cbad67
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: 66e6d789f73aeb418bbd679851db7db4
-        Path: /custom-snippets/test-create-table/.pytest_cache/README.md

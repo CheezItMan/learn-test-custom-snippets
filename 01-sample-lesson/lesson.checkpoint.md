@@ -23,7 +23,6 @@
 
 ##### !placeholder
 
-[the code below is the starting code in the web editor]
 ```
 CREATE ...
 ```
